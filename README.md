@@ -1,5 +1,3 @@
-
-
 # 🐍 Python Basic
 
 Welcome to the **Python_Basic** repository!  
@@ -42,11 +40,15 @@ These topics are commonly included in beginner Python courses :contentReference[
 ## 💻 How to Run
 
 1. Install Python (if not installed)
+
 2. Clone the repository
 
-```bash
-git clone https://github.com/MatheeshaKoralegedara/Python_Basic.git
+   git clone https://github.com/MatheeshaKoralegedara/Python_Basic.git
 
-cd Python_Basic
+3. Navigate to the project folder
 
-python filename.py
+   cd Python_Basic
+
+4. Run any Python file
+
+   python filename.py
